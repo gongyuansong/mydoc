@@ -1,0 +1,3 @@
+Æô¶¯
+
+sudo sh startup.sh

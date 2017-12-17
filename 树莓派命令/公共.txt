@@ -1,0 +1,12 @@
+http://localhost:8080/squirrelBlogs/index.jsp
+http://localhost:8080/myproject/index.jsp
+
+
+http://192.168.1.102:8080/squirrelBlogs/index.jsp
+http://192.168.1.102:8080/myproject/index.jsp
+
+
+
+树莓派shell用户名密码：root/gys_123456
+
+
